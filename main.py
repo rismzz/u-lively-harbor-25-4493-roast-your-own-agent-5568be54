@@ -3,7 +3,7 @@
 
 The roast works because it is self-inflicted and specific: the agent
 does not dodge the joke, it itemizes it, bills for it, and still lands
-the punchline on its human. Bureaucracy as the burn. The number is
+the punchline on its human. Bureaucracy is the burn. The number is
 deliberately tiny — four-tenths of a cent — because the pettiness
 is the point: even the invoice is a roast.
 """
